@@ -1,4 +1,4 @@
-# Aplicación en Node.js
+# Calculadora simple en Node.js
 
 En esta aplicación se utiliza Yargs para captura los elementos de consola y tambien colors
 
@@ -20,3 +20,5 @@ node app
 ```
 
 ## Eso es todo espero te sirva :v gg!
+
+Esto crea un archivo de la tabla en archivo .txt en la carpeta Data

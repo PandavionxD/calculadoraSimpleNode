@@ -39,5 +39,5 @@ let num = argv.b;
 let limit = argv.l;
 let show = argv.s;
 multiplicar(num, limit, show)
-  .then((msj) => console.log(msj, "creado"))
+  .then((msj) => console.log(msj, "creado".toUpperCase().magenta))
   .catch((error) => console.log(error));
